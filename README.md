@@ -1,5 +1,7 @@
 # Cloud Native Java Workshop
+
 # My first changes
+
 The accompanying code for this workshop is [on Github](http://github.com/joshlong/cloud-native-workshop)
 
 ## Setup
